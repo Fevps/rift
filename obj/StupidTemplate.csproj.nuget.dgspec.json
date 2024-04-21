@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jdsna\\Downloads\\lost_the_money_in_my_bank_account\\testplate\\StupidTemplate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jdsna\\Downloads\\lost_the_money_in_my_bank_account\\testplate\\StupidTemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jdsna\\Downloads\\lost_the_money_in_my_bank_account\\testplate\\StupidTemplate.csproj",
+        "projectName": "StupidTemplate",
+        "projectPath": "C:\\Users\\Jdsna\\Downloads\\lost_the_money_in_my_bank_account\\testplate\\StupidTemplate.csproj",
+        "packagesPath": "C:\\Users\\Jdsna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jdsna\\Downloads\\lost_the_money_in_my_bank_account\\testplate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jdsna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
